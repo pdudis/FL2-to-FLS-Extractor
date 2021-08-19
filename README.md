@@ -15,6 +15,10 @@ Showing a Flash file's Release Notes (pixelated for security reasons):
 
 ![FL2 to FLS Extractor - Screenshot_pixelated](https://user-images.githubusercontent.com/4114200/129935466-481d530d-af4f-415f-bc1f-07b60a3b9317.png)
 
+## Pre-built application binaries
+
+You can download pre-built files from the GitHub [Releases](https://github.com/pdudis/FL2-to-FLS-Extractor/releases) page.
+
 ## Notes
 
 - The application uses the [Microsoft .NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130) so you might be requested to install it if not present. Usually, this is already installed on your system.
