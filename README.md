@@ -11,9 +11,9 @@ Intro application window:
 
 ![FL2 to FLS Extractor - Screenshot - Intro](https://user-images.githubusercontent.com/4114200/129935278-aafd82ef-6853-4966-9e93-14fac2c05c81.png)
 
-Showing a Flash file's Release Notes (pixelated for security reasons):
+Showing a Flash file's FLS extraction and Release Notes (pixelated for security reasons):
 
-![FL2 to FLS Extractor - Screenshot_pixelated](https://user-images.githubusercontent.com/4114200/129935466-481d530d-af4f-415f-bc1f-07b60a3b9317.png)
+![FL2 to FLS Extractor - Screenshot_pixelated-2](https://user-images.githubusercontent.com/4114200/130321589-81ab62c4-2f5e-4301-b5af-dc3f48a08cbb.png)
 
 ## Pre-built application binaries
 
